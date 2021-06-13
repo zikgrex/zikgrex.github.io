@@ -1,0 +1,341 @@
+body {
+    font-family: Arial;
+    ,
+    sans-serif;
+}
+
+nav {
+    width: 100%;
+    height: 60px;
+    background: #344051;
+}
+
+.logo {
+    color: #fff;
+    font-size: 28px;
+    line-height: 60px;
+    padding-left: 390px;
+    float: left;
+}
+
+.menu {
+    float: left;
+    padding-left: 438px;
+}
+
+.menu li {
+    float: left;
+    line-height: 60px;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.main {
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D1%8C.png) 90% 100%/auto 85% no-repeat, url(../img/%D1%84%D0%BE%D0%BD.png) center/cover no-repeat;
+}
+
+.title {
+    float: left;
+    margin: 432px 0px 0px 404px;
+    color: #2c384a;
+    text-align: center;
+}
+
+.title h1 {
+    font-size: 60px;
+    width: bold;
+
+}
+
+.title h4 {
+    margin-top: 22px ;
+    color: #79818d;
+}
+
+.title input {
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 0 16px;
+    margin: 58px 14px 0px 14px;
+}
+
+.obomne {
+    text-align: center;
+    width: 100%;
+    height: 720px;
+}
+
+.obomne h3 {
+    font-size: 22px;
+    margin: 107px 0px 32px 0px;
+    text-transform: uppercase;
+}
+
+.img_podcherk{ 
+    display: block;
+    margin: 30px auto 59px auto ;    
+    
+}
+.img_logo{
+    margin: 0px auto 57px auto;
+    display: block;
+}
+
+.obomne div {
+    margin: 22px 596px 37px 596px;
+    text-align: left;
+
+}
+
+.obomne p {
+    margin-top: 38px;
+}
+
+.obomne input {
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 10px 13px 10px 33px;
+    box-shadow: 1px 1px 3px;
+    background: url(../img/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png)12px/18px no-repeat;
+}
+.chto_i_umey{
+    width: 100%;
+    height: 522px;
+    background: url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B01.png) 0px/1920px  no-repeat;
+    float: left;
+}
+.chto_i_umey h3{
+    margin-top: 105px;
+    text-align: center;
+    font-size: 22px; 
+    text-transform: uppercase;
+}
+.title_chto div{
+    
+
+}
+.img_comp{
+    display: block;
+    margin-left: 495px;
+    float: left;
+}
+.img_raz{
+    display: block;
+    float: left;
+    margin-left: 230px;;
+}
+.img_rak{
+margin-left: 230px;
+    
+    
+}
+.img_gram{
+    display: block;
+    float: left;
+    margin-left: 230px;
+}
+.chto_i_umey h5{
+    line-height: 39px;
+    float: left;
+    text-transform: capitalize ;
+    color: #cf7600;
+    font-size: 16px;
+       
+}
+.veb{
+    margin-left:  480px;
+       
+       
+}
+.hraz{
+    margin-left:  200px;          
+      
+}
+.ceo{
+    margin-left: 160px;           
+}
+.mar{   
+   
+    margin: 0px 300px 0px 160px;
+      
+}
+.chto_i_umey li{
+    float: left;
+    line-height: 20px;
+    width: 200px;
+        
+}
+.lveb{
+    width: 200px;
+    margin-left: 440px;
+
+}
+.lraz{
+    margin-left: 85px;
+}
+.lceo{
+    margin-left: 85px;
+}
+.lmar{
+    margin-left: 85px;
+}
+.case{
+    width: 1920px;
+    height: 2000px;
+    float: left;
+    
+}
+.case h2{
+    text-transform: uppercase;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 107px;
+    
+}
+.img_podcherk1{
+display: block;
+    margin: 30px auto 37px auto ; 
+}
+.case_zag{
+    text-align: center;
+    margin-bottom: 36px;
+    display: block
+}
+.img_zas{
+    display: block;
+    margin: 0px auto 35px auto   ;
+    
+}
+.cw{
+    width: 282px;
+    height: 51px; 
+    margin-left: 387px;
+    display: block;
+    float: left;
+    font-size: 16px;
+}
+.np{
+    text-align:left;
+    margin-bottom: 35px;
+    font-size: 16px;
+}
+.vis {
+    margin-left: 387px;
+    border: 1px solid #000;
+    box-shadow: 1px 1px 10px;
+    background-color: #63b5ae;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 5px 16px;
+    color: #fff;
+    margin-bottom: 200px;
+    display: block;
+}
+.sto{
+    text-align: center;
+    font-size: 30px;
+    text-transform:uppercase;
+}
+.rascto{
+    margin-left: 495px;
+}
+.rascto h3{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.rascto input{
+    border: 0.01px solid #fff;
+    background-color: #eeeeee;
+    padding: 15px 350px;
+    margin-top: 24px;
+    border-radius: 10px;
+    
+}
+.serpod{
+    display: block;
+    margin: 37px auto 0px auto;
+
+}
+.podsto {
+    margin:21px 0px 0px 495px;
+    word-spacing: 810px;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.podsto1{
+    margin: 25px 0px 0px 495px;
+    word-spacing: 755px;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.stat{
+    width: 1920px;
+    height: 459px;
+    float: left;
+    background-image: url(../img/statfon.png);
+}
+.stat h2{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 105px;
+}
+.img_stat{
+    width: auto;
+    height: 55px;
+}
+.img_stat_1{
+    margin-left: 497px;
+    display: block;
+    float: left;
+}.img_stat_next{
+    display: block;
+    float: left;
+    margin-left: 235px;
+}
+.img_stat_next_last{
+    margin-left: 235px;
+    display: block;
+    float: left;
+}
+.stat li{
+    line-height: 30px;
+    float: left;
+}
+.stat_li_1{
+    
+    margin-left: 455px;
+    text-align: center;
+}
+.stat_li_next{
+    margin-left:175px;
+    text-align: center;
+}
+.stat_li_last{
+    margin-left: 175px;
+    text-align: center;
+}
+.otzovi{
+    width: 1920px    ;
+    height: 590px;
+    float:left; 
+}
+
+.otzovi h2{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 107px;
+}
+.img_otzovi_logo{
+    margin: 0px auto;
+    display: block;
+}
