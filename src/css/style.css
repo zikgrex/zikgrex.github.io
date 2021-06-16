@@ -339,3 +339,111 @@ display: block;
     margin: 0px auto;
     display: block;
 }
+.otzovi p{
+    margin-top: 33px;
+    text-align: center;
+    
+}
+.img_toch1{
+        display: block;
+    margin-left: 930px;
+    float: left;
+    
+}
+.img_toch2{
+    display: block;
+    margin-left: 15px;
+    float: left;
+}
+.img_toch3{
+    display: block;
+    margin-left: 15px;
+    float: left;
+}
+.img_toch{
+    margin-top: 50px;
+}
+.moi_cont{
+    float: left;
+    width: 1920px;
+    height: 807px;
+    background-image: url(../img/phoncont.png);
+}
+.moi_cont h2{
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #fff;
+    margin-top: 102px;
+    text-align: center;
+}
+.zag{
+    text-align: center;
+    color: #fff;
+    margin-bottom: 48px;
+}
+.img_cont{
+    width: 1920px;;
+    height: 40px;
+}
+.img_mes{
+    display: block;
+    float: left;
+    margin-left: 708px;
+}
+.img_em{
+    display: block;
+    float:left; 
+    margin-left: 220px;
+}
+.img_en{
+    display: block;
+    margin-left: 220px;
+    float:left;
+}
+.moi_cont li{
+    line-height: 20px;
+    float: left;
+    color: #fff;
+
+}
+.sp{
+    text-align: center;
+    float: left;
+    margin-left: 650px;
+    
+}
+.inf{
+    text-align: center;
+    margin-left: 100px;
+}
+.tel{
+    margin-left: 100px;
+    text-align: center;
+    
+}
+.moi_cont h3{
+    margin-top: 78px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 22px;
+    text-align: center;
+    
+}
+.name{
+    margin-left: 594px;
+    border: 1px solid #eeeeee;
+    padding: 5px 90px;
+    background-color: #eeeeee;
+}
+.email{
+    margin-left: 35px;
+    border: 1px solid #eeeeee;
+    padding: 5px 90px;
+    text-align: left;
+    background-color: #eeeeee;
+    border-radius: 2px;
+}
+.area{
+    display: block;
+    margin: 35px auto 30px auto;
+}
